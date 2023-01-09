@@ -1,7 +1,7 @@
 # Line-Up-Contractors
 
 
-Goal of this final project is to build or imporve the information systems for an exisiting business. Our client was a contracting business - Line Up Contractors - and through surveying, interviewing and discussing back and forth, we built our client a website with multiple landing pages and a database to store all inputted information. Website has portols for a potential customer, employee and manager - and each user has specific access to the website. 
+Goal of this final project is to build or improve the information systems for an exisiting business. Our client was a contracting business - Line Up Contractors - and through surveying, interviewing and discussing back and forth, we built our client a website with multiple landing pages and a database to store all inputted information. Website has portols for a potential customer, employee and manager - and each user has specific access to the website. 
 
 Included in https://github.com/kmuss/Line-Up-Contractors/blob/main/LineUpReport.pdf, you will find all of the steps taken to build the website and database documented and reported. Inside you will find a entity relationship model, data-flow diagram, and a physical data-flow diagram, all were used to build the databse. 
 
